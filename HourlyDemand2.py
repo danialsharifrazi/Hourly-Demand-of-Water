@@ -110,7 +110,7 @@ plt.show()
 
 actuals_path=f'./results/actuals_{target}_hours.txt'
 predicteds_path=f'./results/predicteds_{target}_hours.txt'
-metrics_path=f'./results/metrics_{target}_hours.txt'
+metrics_path=f'./results/metrics_{target}_hourss.txt'
 
 f1=open(actuals_path,'a',)
 f2=open(predicteds_path,'a')
